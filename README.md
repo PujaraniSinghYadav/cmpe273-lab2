@@ -4,8 +4,8 @@
 
 - git clone <url>
 - cd cmpe273-lab2
-cd httprouter
-export GOCODE=`pwd`/gocode
-go get
-go build
-./httprouter
+- cd httprouter
+- export GOCODE=`pwd`/gocode
+- go get
+- go build
+- ./httprouter
